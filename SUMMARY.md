@@ -32,6 +32,9 @@
     * [Select By ID](other-problems/hackerrank/sql/select-by-id.md)
     * [Japanese Cities' Attributes](other-problems/hackerrank/sql/japanese-cities-attributes.md)
     * [Japanese Cities' Names](other-problems/hackerrank/sql/japanese-cities-names.md)
+    * [Weather Observation Station 1](other-problems/hackerrank/sql/weather-observation-station-1.md)
+    * [Weather Observation Station 3](other-problems/hackerrank/sql/weather-observation-station-3.md)
+    * [Weather Observation Station 4](other-problems/hackerrank/sql/weather-observation-station-4.md)
 
 ## ❤ TIPS & TRICKS
 
