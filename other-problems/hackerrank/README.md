@@ -13,3 +13,6 @@
 |   SQL  | Basic Select | [Weather Observation Station 1](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/weather-observation-station-1) |
 |   SQL  | Basic Select | [Weather Observation Station 3](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/weather-observation-station-3) |
 |   SQL  | Basic Select | [Weather Observation Station 4](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/weather-observation-station-4) |
+|   SQL  | Basic Select | [Weather Observation Station 5](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/weather-observation-station-5) |
+|   SQL  | Basic Select | [Weather Observation Station 6](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/weather-observation-station-6) |
+|   SQL  | Basic Select | [Weather Observation Station 7](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/weather-observation-station-7) |

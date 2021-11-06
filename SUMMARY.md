@@ -35,6 +35,9 @@
     * [Weather Observation Station 1](other-problems/hackerrank/sql/weather-observation-station-1.md)
     * [Weather Observation Station 3](other-problems/hackerrank/sql/weather-observation-station-3.md)
     * [Weather Observation Station 4](other-problems/hackerrank/sql/weather-observation-station-4.md)
+    * [Weather Observation Station 5](other-problems/hackerrank/sql/weather-observation-station-5.md)
+    * [Weather Observation Station 6](other-problems/hackerrank/sql/weather-observation-station-6.md)
+    * [Weather Observation Station 7](other-problems/hackerrank/sql/weather-observation-station-7.md)
 
 ## ❤ TIPS & TRICKS
 
