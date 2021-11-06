@@ -1,5 +1,7 @@
 # Java
 
+[Click here to navigate to Java HackerRank challenges page](https://www.hackerrank.com/domains/java)
+
 ## Solutions Index <a href="solutions-index" id="solutions-index"></a>
 
 |  #  |                                                           Problem                                                           |   Subdomain  |       Completed      | Notes |
