@@ -8,3 +8,5 @@
 | :-: | :----------------------------------------------------------------------------------------------------------------------------: | :----------: | :------------------: | :---: |
 |  1  |  [Revising the Select Query I](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/revising-the-select-query-i)  | Basic Select | :white\_check\_mark: |       |
 |  2  | [Revising the Select Query II](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/revising-the-select-query-ii) | Basic Select | :white\_check\_mark: |       |
+|  3  |                   [Select All](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/select-all)                   | Basic Select | :white\_check\_mark: |       |
+|  4  |                 [Select By ID](https://andremarinho.gitbook.io/cpc/other-problems/hackerrank/sql/select-by-id)                 | Basic Select | :white\_check\_mark: |       |

@@ -28,6 +28,8 @@
   * [SQL](other-problems/hackerrank/sql/README.md)
     * [Revising the Select Query I](other-problems/hackerrank/sql/revising-the-select-query-i.md)
     * [Revising the Select Query II](other-problems/hackerrank/sql/revising-the-select-query-ii.md)
+    * [Select All](other-problems/hackerrank/sql/select-all.md)
+    * [Select By ID](other-problems/hackerrank/sql/select-by-id.md)
 
 ## ❤ TIPS & TRICKS
 
