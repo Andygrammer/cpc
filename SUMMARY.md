@@ -30,6 +30,8 @@
     * [Revising the Select Query II](other-problems/hackerrank/sql/revising-the-select-query-ii.md)
     * [Select All](other-problems/hackerrank/sql/select-all.md)
     * [Select By ID](other-problems/hackerrank/sql/select-by-id.md)
+    * [Japanese Cities' Attributes](other-problems/hackerrank/sql/japanese-cities-attributes.md)
+    * [Japanese Cities' Names](other-problems/hackerrank/sql/japanese-cities-names.md)
 
 ## ❤ TIPS & TRICKS
 
