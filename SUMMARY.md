@@ -1,3 +1,8 @@
 # Table of contents
 
-* [README](README.md)
+* [Welcome to CPC!](README.md)
+
+## ⁉ PROGRAMMING PROBLEMS
+
+* [HackerRank](programming-problems/hackerrank/README.md)
+  * [Java](programming-problems/hackerrank/java.md)
