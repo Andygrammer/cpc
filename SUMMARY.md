@@ -25,7 +25,9 @@
 ## 🧠 OTHER PROBLEMS
 
 * [HackerRank](other-problems/hackerrank/README.md)
-  * [SQL](other-problems/hackerrank/sql.md)
+  * [SQL](other-problems/hackerrank/sql/README.md)
+    * [Revising the Select Query I](other-problems/hackerrank/sql/revising-the-select-query-i.md)
+    * [Revising the Select Query II](other-problems/hackerrank/sql/revising-the-select-query-ii.md)
 
 ## ❤ TIPS & TRICKS
 
