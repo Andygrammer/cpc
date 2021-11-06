@@ -25,7 +25,6 @@
 * [HackerRank](other-problems/hackerrank/README.md)
   * [SQL](other-problems/hackerrank/sql.md)
 
-## Group 1
+## ❤ TIPS & TRICKS
 
-* [❤ TIPS & TRICKS](group-1/tips-and-tricks.md)
-* [T\&T Index](group-1/t-and-t-index.md)
+* [T\&T Index](tips-and-tricks/t-and-t-index.md)
