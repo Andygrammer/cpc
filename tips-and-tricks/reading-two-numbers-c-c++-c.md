@@ -2,7 +2,7 @@
 
 A common issue in competitive programming is reading two numbers before solve the main problem. In several programming languages this is an easy task, but we need to pay attention to some points.
 
-In built-in C# libraries, we haven’t a method like _`scanf`_from C/C++. This could be tricky whether you don’t know about string manipulation.
+In built-in C# libraries, we haven’t a method like `scanf`from C/C++. This could be tricky whether you don’t know about string manipulation.
 
 First, let’s see how to read two numbers in C language. Let the following problem.
 
@@ -80,7 +80,7 @@ int main(){
 }
 ```
 
-Of course, we can use _`scanf`_in both, C and C++, languages. What about C#?
+Of course, we can use `scanf`in both, C and C++, languages. What about C#?
 
 ### 4. C# approach I - using Split + Convert
 
