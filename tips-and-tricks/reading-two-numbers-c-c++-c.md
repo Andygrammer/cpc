@@ -2,13 +2,13 @@
 
 A common issue in competitive programming is reading two numbers before solve the main problem. In several programming languages this is an easy task, but we need to pay attention to some points.
 
-In built-in C#, we haven’t a method like _`scanf`_ from C/C++. This could be tricky whether you don’t know about string manipulation.
+In built-in C# libraries, we haven’t a method like _`scanf`_from C/C++. This could be tricky whether you don’t know about string manipulation.
 
-First, let’s see how to read two numbers in C language. Let the following problem:
+First, let’s see how to read two numbers in C language. Let the following problem.
 
 ### 1. Problem
 
-> Make a program that reads an integer _TC_ as number of test cases, and, in the next line, two integers, A and B. Calculate and print the sum of A and B.
+> Make a program that reads an integer _TC_ as number of test cases, and in the next line, two integers, A and B. Calculate and print the sum of A and B.
 
 #### 1.1. Constraints
 
@@ -80,7 +80,7 @@ int main(){
 }
 ```
 
-Of course, we can use _`scanf`_ in both, C and C++, languages. What about C#?
+Of course, we can use _`scanf`_in both, C and C++, languages. What about C#?
 
 ### 4. C# approach I - using Split + Convert
 
@@ -104,7 +104,7 @@ static void DoFirstSolution() // Using Split and Convert
 }
 ```
 
-Commonly, in C# we use `ReadLine` method to read an input from the console. In this way, input is treated as a string data type. Therefore, we need to split data to get the numbers of the sum only (and not the blank space between them). Let’s take a look at another possible solutions.
+Commonly, in C# we use `ReadLine`method to read an input from the console. In this way, input is treated as a string data type. Therefore, we need to split data to get the numbers of the sum only (and not the blank space between them). Let’s take a look at another possible solution.
 
 ### 5. C# approach II - using Split + Parse
 
@@ -128,7 +128,7 @@ static void DoSecondSolution() // Using Split + Parse
 }
 ```
 
-`Parse` can be faster, but it's less secure than `Convert` (previous approach). Note the way we split data in this example (fairly different than approach I).
+`Parse`can be faster, but it's less secure than `Convert`(previous approach). Note the way we split data in this example (fairly different than approach I).
 
 ### 6. C# approach III - using LINQ
 
@@ -155,7 +155,7 @@ static void DoThirdSolution() // Using LINQ
 }
 ```
 
-With _LINQ_ we can read the line, split the input data, and select the value to parse. Note the use of the `IEnumerable` interface. A very convenient way to solution.
+With _LINQ_ we can read the line, split the input data, and select the value to parse. Note the use of the `IEnumerable`interface. A very convenient way to solution.
 
 ### 7. C# approach IV - using LINQ and regular expressions (regex)
 
@@ -179,7 +179,7 @@ static void DoFourthSolution() // Using LINQ + Regex
 }
 ```
 
-Despite of this approach hasn't use `IEnumerable` interface, we was able to use a "select-from" way (via _LINQ_) to search the numbers in the input, parse, and sum them.
+Despite of this approach hasn't use `IEnumerable`interface, we was able to use a "select-from" way (via _LINQ_) to search the numbers in the input, parse, and sum them.
 
 ### 8. C# approach V - using input arguments
 
@@ -208,7 +208,7 @@ In this example, we use the "Main method approach". Here, we've configured the i
 
 ### 9. Conclusion
 
-There are several ways to read numbers using C#. But, in contrast of C and C++, in C#, the built-in libraries treat input numbers as string. Nevertheless, C# has powerful components, like LINQ, that make the life of developer easier.
+There are several ways to read numbers using C#. But, in contrast of C and C++, in C#, the built-in libraries treat input numbers as string. Nevertheless, C# has powerful components, like _LINQ_, that make the life of programmer easier.
 
 ### 10. References
 
