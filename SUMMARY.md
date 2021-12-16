@@ -42,3 +42,4 @@
 ## ❤ TIPS & TRICKS
 
 * [T\&T Index](tips-and-tricks/t-and-t-index.md)
+* [Reading two numbers – C/C++/C#](tips-and-tricks/reading-two-numbers-c-c++-c.md)
